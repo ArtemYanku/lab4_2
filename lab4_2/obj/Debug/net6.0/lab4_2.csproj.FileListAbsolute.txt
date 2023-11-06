@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.exe
+C:\Users\HP\source\repos\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.deps.json
+C:\Users\HP\source\repos\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.runtimeconfig.json
+C:\Users\HP\source\repos\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.dll
+C:\Users\HP\source\repos\lab4_2\lab4_2\bin\Debug\net6.0\lab4_2.pdb
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.AssemblyInfo.cs
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.dll
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\refint\lab4_2.dll
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.pdb
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\lab4_2.genruntimeconfig.cache
+C:\Users\HP\source\repos\lab4_2\lab4_2\obj\Debug\net6.0\ref\lab4_2.dll
